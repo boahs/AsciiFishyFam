@@ -28,7 +28,7 @@ function App() {
         <h6>WEBSITE OVERHAUL BEING INTRODUCED</h6>
         <h6>COMMUNITY POLLING OPTION POSSIBILITY</h6>
         </div>
-        <p>Astcii Fishy Fam is a collection of unique NFTs turned into ASCII art. What is ascii art? It's a style of art as old as the internet(literally) - It's a design technique that uses computers for presentation and consists of pictures pieced together from a total of 128 characters defined by the ASCII standard from 1963. Our Ascii Fishy Fam are entirely created using text! Don't believe me? Zoom into one! </p>
+        <p>Ascii Fishy Fam is a collection of unique NFTs turned into ASCII art. What is ascii art? It's a style of art as old as the internet(literally) - It's a design technique that uses computers for presentation and consists of pictures pieced together from a total of 128 characters defined by the ASCII standard from 1963. Our Ascii Fishy Fam are entirely created using text! Don't believe me? Zoom into one! </p>
 
         <a 
         className='="App-link'
