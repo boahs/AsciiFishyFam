@@ -292,3 +292,20 @@ p{
     flex-direction: column;
   }
 }
+
+
+.fading {
+-webkit-animation-name: FadeInOut;
+-webkit-animation-timing-function: ease-out;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-duration: 1s;
+-webkit-animation-direction: alternate;
+
+}
+
+@keyframes FadeInOut {
+  0% {opacity:1;}
+  25% {opacity:.75;}
+  50% {opacity:.5;}
+  100% {opacity:0;}
+}

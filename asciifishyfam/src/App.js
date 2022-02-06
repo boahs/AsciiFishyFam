@@ -1,9 +1,11 @@
 import './App.css';
 import React from "react";
 import banner from './bannerAsciiTransparent.png';
+import topBanner from './banner2.png';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons';
+
 
 
 
@@ -19,9 +21,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/* {BasicHooksExample} */}
-        <h2>Ascii Fishy Fam</h2>
+        <div className="fading">
+        <img src={topBanner} alt="ascill name text banner" width="100%" height="auto"/>
+        </div>
+
         
-        <img src={banner} alt="ascii banner" width="70%" height="auto"/>
+        <img src={banner} alt="ascii banner" width="100%" height="auto"/>
         <div className = "box">
         <h5>FISHY NEWS</h5>
         <h3>SALE IS LIVE! SEE SOCIAL MEDIA SECTION BELOW!</h3>
