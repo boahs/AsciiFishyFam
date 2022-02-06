@@ -92,7 +92,9 @@ Join our discord today to activity participate in the community!</p>
 </div>
 
 </div>
-        
+        <div class = "sprite"></div>
+        <div class = "sprite2"></div>
+
 <section class="sticky">
   <div class="bubbles">
       <div class="bubble"></div>
