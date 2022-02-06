@@ -96,7 +96,7 @@ p{
   background:#8E9A92;
   border-radius:50%;
   opacity:0.3;
-  animation: rise 10s infinite ease-in;
+  animation: rise 5s infinite ease-in;
 }
 .bubble:nth-child(1){
   width:40px;
@@ -116,14 +116,14 @@ p{
   height:50px;
   left:35%;
   animation-duration:15s;
-  animation-delay:2s;
+  animation-delay:1s;
 }
 .bubble:nth-child(4){
   width:80px;
   height:80px;
   left:50%;
   animation-duration:11s;
-  animation-delay:0s;
+  animation-delay:1s;
 }
 .bubble:nth-child(5){
   width:35px;
@@ -137,26 +137,26 @@ p{
   height:45px;
   left:65%;
   animation-duration:45s;
-  animation-delay:3s;
+  animation-delay:1s;
 }
 .bubble:nth-child(7){
   width:90px;
   height:90px;
   left:70%;
   animation-duration:5s;
-  animation-delay:2s;
+  animation-delay:1s;
 }
 .bubble:nth-child(8){
   width:25px;
   height:25px;
   left:80%;
   animation-duration:6s;
-  animation-delay:2s;
+  animation-delay:1s;
 }
 .bubble:nth-child(9){
-  width:15px;
-  height:15px;
-  left:70%;
+  width:10px;
+  height:10px;
+  left:78%;
   animation-duration:5s;
   animation-delay:1s;
 }
@@ -165,7 +165,7 @@ p{
   height:90px;
   left:25%;
   animation-duration:10s;
-  animation-delay:4s;
+  animation-delay:1s;
 }
 @keyframes rise{
   0%{
@@ -202,15 +202,14 @@ p{
   display: flex;
   flex-wrap: wrap;
   flex: 1;
-  margin: 20px;
-  padding: 20px;
-  border: 2px solid black;
-  border-radius: 4px;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 45px;
   transition: all .3s ease;
 }
 .content .fab{
   font-size: 60px;
-  margin: 16px 0;
+  margin: 5px;
 }
 .content > *{
   flex: 1 1 100%;
@@ -240,8 +239,25 @@ p{
   border-color: #EE1D52;
   background: #EE1D52;
 }
-.content-3:hover a{
-  color: #ff0000;
+.content:hover a{
+  border-color: white;
+  background: white;
+}
+.content-4:hover{
+  border-color: #0088CC;
+  background: #0088CC;
+}
+.content:hover a{
+  color: black;
+  background: #0088CC;
+}
+.content-5:hover{
+  border-color: #7289da;
+  background: #7289da;
+}
+.content:hover a{
+  border-color: white;
+  background: white;
 }
 .content h2{
   font-size: 30px;

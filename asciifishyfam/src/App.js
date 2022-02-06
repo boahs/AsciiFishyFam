@@ -66,7 +66,26 @@ TikTok</h2>
 Follow us on TikTok to see Ascii Fishy Fam early releases!</p>
 <a href="https://www.tiktok.com/@asciifishyfam">Read More</a>
         </div>
+        <div class="content content-4">
+          <div class="fab fa-whatsapp">
 </div>
+<h2>
+TELEGRAM</h2>
+<p>
+Join our telegram today to activity participate in the community!</p>
+<a href="https://t.me/AsciiFishyFamNFT">Read More</a>
+        </div>
+        <div class="content content-5">
+          <div class="fab fa-whatsapp">
+</div>
+<h2>
+DISCORD</h2>
+<p>
+Join our discord today to activity participate in the community!</p>
+<a href="#">Read More</a>
+        </div>
+</div>
+
 </div>
         
 <section class="sticky">
