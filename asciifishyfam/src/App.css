@@ -29,7 +29,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #f1f4c6;
 }
 
 .App-link {
@@ -53,19 +53,19 @@ h2 {
 
 }
 h3 {
-  color: red
+  color: #006994;
 }
 h5{
-  color:white;
+  color:#006994;
   font-size: 50px;
 }
 
 .box{
   font-size: 32px;
-  color: #006994;
   border:6px solid;
   border-style: dotted dashed solid double;
-
+  background: 	#f1f4c6;
+  color: #006994;
 }
 
 p{
@@ -192,6 +192,7 @@ p{
   margin: 0 0 30px 0;
   text-transform: uppercase;
   letter-spacing: 1px;
+  color: #006994;
 }
 .services{
   display: flex;
@@ -222,11 +223,11 @@ p{
   background: white;
 }
 .content-1:hover{
-  border-color: #4267B2;
-  background: #4267B2;
+  border-color: #2BCDE4;
+  background: #2BCDE4;
 }
 .content-1:hover a{
-  color: #4267B2;
+  color: #2BCDE4;
 }
 .content-2:hover{
   border-color: #1DA1F2;
@@ -247,18 +248,18 @@ p{
   margin: 16px 0;
   letter-spacing: 1px;
   text-transform: uppercase;
-  
+  color: #006994;
   
 }
 .content p{
   font-size: 17px;
-  font-family: 'Poppins',sans-serif;
-  color: white;
+  font-family: 'Fishy',sans-serif;
+  color: #f1f4c6
 }
 .content a{
   margin: 22px 0;
   background: black;
-  color: white;
+  color: #f1f4c6;
   text-decoration: none;
   text-transform: uppercase;
   border: 1px solid black;
