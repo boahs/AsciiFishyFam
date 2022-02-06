@@ -73,7 +73,7 @@ Follow us on TikTok to see Ascii Fishy Fam early releases!</p>
 TELEGRAM</h2>
 <p>
 Join our telegram today to activity participate in the community!</p>
-<a href="https://t.me/AsciiFishyFamNFT">Read More</a>
+<a href="https://t.me/AsciiFishyFamNFT">JOIN</a>
         </div>
         <div class="content content-5">
           <div class="fab fa-whatsapp">
@@ -82,7 +82,7 @@ Join our telegram today to activity participate in the community!</p>
 DISCORD</h2>
 <p>
 Join our discord today to activity participate in the community!</p>
-<a href="#">Read More</a>
+<a href="#">JOIN</a>
         </div>
 </div>
 
