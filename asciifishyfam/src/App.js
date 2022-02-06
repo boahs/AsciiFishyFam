@@ -32,7 +32,6 @@ function App() {
         >
           <h3>SALE IS LIVE! CLICK HERE!</h3>
         </a>
-        <i class="fas fa-camera">Test</i>
         <h6>ROADMAP BEING INTRODUCED THIS MONTH!</h6>
         <h6>WEBSITE OVERHAUL BEING INTRODUCED</h6>
         <h6>COMMUNITY POLLING OPTION</h6>
