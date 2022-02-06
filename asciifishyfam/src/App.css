@@ -167,48 +167,6 @@ p{
   animation-duration:10s;
   animation-delay:4s;
 }
-.bubble:nth-child(11){
-  width:10px;
-  height:10px;
-  left:15%;
-  animation-duration:3s;
-  animation-delay:4s;
-}
-.bubble:nth-child(12){
-  width:25px;
-  height:25;
-  left:10%;
-  animation-duration:3s;
-  animation-delay:4s;
-}
-.bubble:nth-child(13){
-  width:8px;
-  height:8px;
-  left:20%;
-  animation-duration:3s;
-  animation-delay:4s;
-}
-.bubble:nth-child(14){
-  width:32px;
-  height:32px;
-  left:40%;
-  animation-duration:3s;
-  animation-delay:4s;
-}
-.bubble:nth-child(15){
-  width:60px;
-  height:60px;
-  left:65%;
-  animation-duration:3s;
-  animation-delay:4s;
-}
-.bubble:nth-child(16){
-  width:70px;
-  height:70px;
-  left:4%;
-  animation-duration:3s;
-  animation-delay:4s;
-}
 @keyframes rise{
   0%{
     bottom:-200px;
