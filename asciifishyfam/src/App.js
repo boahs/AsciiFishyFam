@@ -25,10 +25,12 @@ function App() {
         <div className = "box">
         <h5>FISHY NEWS</h5>
         <h3>SALE IS LIVE! SEE SOCIAL MEDIA SECTION BELOW!</h3>
+        <h6>INTERACTIVE USECASE FOR YOUR ASCII FISHY FAM NFT AFTER WE IMPLEMENT OPENSEAS API TO OUR WEBSITE!</h6>
         <h6>ROADMAP BEING INTRODUCED THIS MONTH!</h6>
         <h6>WEBSITE IMPROVEMENTS!</h6>
-        <h6>WALLET API INTERGRATION WITH WEBSITE!</h6>
-        <h6>OPENSEA API INTERGRATION WITH WEBSITE!</h6>
+        <h6>WALLET API INTEGRATION WITH OUR WEBSITE!</h6>
+        <h6>OPENSEA API INTEGRATION WITH OUR WEBSITE!</h6>
+        <h6>RAW ASCII CODE BEING SENT TO BUYER AFTER WE IMPLEMENT OPENSEAS API TO OUR WEBSITE!</h6>
         <h6>COMMUNITY POLLING OPTION!</h6>
         </div>
         <p> Ascii Fishy Fam is a collection of unique NFTs turned into ASCII art. What is ascii art? It's a style of art as old as the internet(literally) - It's a design technique that uses computers for presentation and consists of pictures pieced together from a total of 128 characters defined by the ASCII standard from 1963. Our Ascii Fishy Fam are entirely created using text! Don't believe me? Zoom into one! </p>
