@@ -341,7 +341,7 @@ p{
   height: 110px;
   width: 200px;
   background: url(./asciiFishy1.png) center/100%;
-  animation:swim 3s ease-in-out infinite;
+  animation:swim 12s ease-in-out infinite;
   position: absolute;
   right: -200px; /*messes with app if change*/
   top: 90%;
