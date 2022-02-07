@@ -332,7 +332,7 @@ p{
   animation: swim 8s ease infinite;
   position: absolute;
   right: -200px;
-  top: 50%;
+  top: 90%;
   margin-top: -150px;
   z-index: 100;
 }
