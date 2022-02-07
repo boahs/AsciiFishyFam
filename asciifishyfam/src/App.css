@@ -319,7 +319,7 @@ p{
   background: url(./tparentascii1.png) center/100%;
   animation: swim 15s ease-in-out infinite;
   position: absolute;
-  right: -200px;
+  right: 150px;
   top: 50%;
   margin-top: -150px;
   z-index: 100;
@@ -331,8 +331,8 @@ p{
   background: url(./tparentascii2.png) center/100%;
   animation: swim 8s ease infinite;
   position: absolute;
-  right: -200px;
-  top: 90%;
+  right: 100px;
+  top: 75%;
   margin-top: -150px;
   z-index: 100;
 }
@@ -343,7 +343,7 @@ p{
   background: url(./asciiFishy1.png) center/100%;
   animation:swim 12s ease-in-out infinite;
   position: absolute;
-  right: -200px; /*messes with app if change*/
+  right: 100px; /*messes with app if change*/
   top: 90%;
   margin-top: -150px; 
   z-index: 100;
