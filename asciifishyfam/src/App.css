@@ -317,7 +317,7 @@ p{
   height: 100px;
   width: 200px;
   background: url(./tparentascii1.png) center/100%;
-  animation: animateSprite 15s steps(1) infinite, swim 15s ease-in-out infinite;
+  animation: swim 15s ease-in-out infinite;
   position: absolute;
   right: -200px;
   top: 50%;
@@ -329,7 +329,7 @@ p{
   height: 100px;
   width: 200px;
   background: url(./tparentascii2.png) center/100%;
-  animation: animateSprite2 8s steps(1) infinite, swim 8s ease infinite;
+  animation: swim 8s ease infinite;
   position: absolute;
   right: -200px;
   top: 50%;
@@ -337,24 +337,31 @@ p{
   z-index: 100;
 }
 
-
-
-
-
-@keyframes animateSprite {
-  0% {
-    background-position: -600px; /* Starting position moving left sprite */
-  }
-  35% {
-    background-position: -400px; /* Moving right sprite */
-  }
-  40% {
-    background-position: -400px;
-  }
-  100% {
-    background-position: -600px;
-  }
+.sprite3 {
+  height: 110px;
+  width: 200px;
+  background: url(./asciiFishy1.png) center/100%;
+  animation:swim 3s ease-in-out infinite;
+  position: absolute;
+  right: -200px; /*messes with app if change*/
+  top: 90%;
+  margin-top: -150px; 
+  z-index: 100;
 }
+
+/* .sprite4 {
+  height: 200px;
+  width: 200px;
+  background: url(./asciiFishy2.png) center/100%;
+  animation:  swimRight 12s ease infinite;
+  position: absolute;
+  right: 800px;
+  top: 70%;
+  margin-top: -150px;
+  z-index: 100;
+} */
+
+
 
 @keyframes swim {
   0% {
@@ -367,6 +374,5 @@ p{
     transform: translate(calc(-150vw - 300px), 0); /* Animate past left past the screen */
   }
 }
-
 
 

@@ -93,6 +93,8 @@ Join our discord today to activity participate in the community!</p>
 </div>
         <div class = "sprite"></div>
         <div class = "sprite2"></div>
+        <div class = "sprite3"></div>
+        {/* <div class = "sprite4"></div> */}
 
 <section class="sticky">
   <div class="bubbles">
