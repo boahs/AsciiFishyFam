@@ -9,6 +9,7 @@ import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons';
 
 
 
+
 // import BasicHooksExample  from './switchOption'
 
 function App() {
@@ -23,9 +24,7 @@ function App() {
         {/* {BasicHooksExample} */}
         <div className="fading">
         <img src={topBanner} alt="ascill name text banner" width="100%" height="auto"/>
-        </div>
-
-        
+        </div>        
         <img src={banner} alt="ascii banner" width="100%" height="auto"/>
         <div className = "box">
         <h5>FISHY NEWS</h5>

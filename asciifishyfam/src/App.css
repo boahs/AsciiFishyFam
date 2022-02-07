@@ -66,6 +66,7 @@ h5{
   border-style: dotted dashed solid double;
   background: 	#f1f4c6;
   color: #006994;
+  margin-top: 5%;
 }
 
 p{
@@ -315,7 +316,7 @@ p{
 .sprite {
   height: 100px;
   width: 200px;
-  background: url(./f1.png) center/100%;
+  background: url(./tparentascii1.png) center/100%;
   animation: animateSprite 15s steps(1) infinite, swim 15s ease-in-out infinite;
   position: absolute;
   right: -200px;
@@ -327,7 +328,7 @@ p{
 .sprite2 {
   height: 100px;
   width: 200px;
-  background: url(./f2.png) center/100%;
+  background: url(./tparentascii2.png) center/100%;
   animation: animateSprite2 8s steps(1) infinite, swim 8s ease infinite;
   position: absolute;
   right: -200px;
@@ -366,4 +367,6 @@ p{
     transform: translate(calc(-150vw - 300px), 0); /* Animate past left past the screen */
   }
 }
+
+
 
