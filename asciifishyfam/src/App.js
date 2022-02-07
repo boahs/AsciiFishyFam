@@ -86,7 +86,7 @@ Join our telegram today to activity participate in the community!</p>
 DISCORD</h2>
 <p>
 Join our discord today to activity participate in the community!</p>
-<a href="#">JOIN</a>
+<a href="https://discord.gg/5GxekggWEq">JOIN</a>
         </div>
 </div>
 
