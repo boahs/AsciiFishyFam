@@ -5,7 +5,7 @@ import topBanner from './banner2.png';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons';
-
+import FaqSection from './FaqSection';
 
 
 
@@ -16,7 +16,7 @@ function App() {
 
   library.add(fab, faCheckSquare, faCoffee);
 
-  
+
   
   return (
     <div className="App">
@@ -37,10 +37,8 @@ function App() {
         <h6>RAW ASCII CODE BEING SENT TO BUYER AFTER WE IMPLEMENT OPENSEAS API TO OUR WEBSITE!</h6>
         <h6>COMMUNITY POLLING OPTION!</h6>
         </div>
-        <p> Ascii Fishy Fam is a collection of unique NFTs turned into ASCII art. What is ascii art? It's a style of art as old as the internet(literally) - It's a design technique that uses computers for presentation and consists of pictures pieced together from a total of 128 characters defined by the ASCII standard from 1963. Our Ascii Fishy Fam are entirely created using text! Don't believe me? Zoom into one! </p>
-        
-
         <div class="cards">
+        <p> Ascii Fishy Fam is a collection of unique NFTs turned into ASCII art. What is ascii art? It's a style of art as old as the internet(literally) - It's a design technique that uses computers for presentation and consists of pictures pieced together from a total of 128 characters defined by the ASCII standard from 1963. Our Ascii Fishy Fam are entirely created using text! Don't believe me? Zoom into one! </p>
       <h1>
  Social Media</h1>
 <div class="services">
@@ -89,6 +87,7 @@ Join our discord today to activity participate in the community!</p>
 <a href="https://discord.gg/5GxekggWEq">JOIN</a>
         </div>
 </div>
+<FaqSection/>
 
 </div>
         <div class = "sprite"></div>
