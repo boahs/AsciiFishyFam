@@ -19,7 +19,7 @@ const data = {
         },
         {
             title: `Are the developers "DOXED"?`,
-            content: `Yes the team is doxxed - we have no malevolent and plan to take this project to the next level!`
+            content: `Yes the team is doxxed - we have no malevolent intentions and plan to take this project to the next level!`
         },
         {
             title: `Does the team have professional experience in the real world?`,
