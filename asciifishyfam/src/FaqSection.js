@@ -1,44 +1,49 @@
 import React, { useEffect, useState } from "react";
 import Faq from "react-faq-component";
 const FaqSection = () => {
-const data = {
-    title: "FAQ",
-    rows: [
-        {
-            title: "Do you have derivative rights for this project?",
-            content: `Yes we have received official approval from the @FishyFamNFT project owners!`,
-        },
-        {
-            title: "What makes us different?",
-            content:
-                "Ascii Fishy Fam is an entirely different project than any other NFT collection. We plan to create high quality colorful ASCII art NFTs of the Fishy Fam collection. We plan to achieve what other NFTs haven't and keep you excited on what we're releasing next.",
-        },
-        {
-            title: "Does Ascii Fishy Fam have a utility?",
-            content: `Ascii Fishy Fam will have more than one utility in the future. Working in an AGILE environment we plan to carefully release news about these features we plan to add overtime. Keep an eye on our twitter or the website which will always be updated first. These utility functions will be epic...We'll give you a hint : "Three.JS" will be used!`,
-        },
-        {
-            title: `Are the developers "DOXED"?`,
-            content: `Yes the team is doxxed - we have no malevolent intentions and plan to take this project to the next level!`
-        },
-        {
-            title: `Does the team have professional experience in the real world?`,
-            content: `Yes the developers of this team have worked in very large and small teams alike professionally.`
-        },
-        {
-            title: `Do we get a roadmap?`,
-            content: `A roadmap is in the works currently.`
-        },
-        {
-            title: `Do we get a team member section on the website?`,
-            content: `A team member section will be added in when the components are built for it.`
-        },
-        {
-            title: `Will this project be Web3 applicable?`,
-            content: `Web3 is a pretty big buzzword - We will be intergrating ethers.js which is a web3 javascript library. We will use it to interact with the blockchain and its ecosystem.`
-        },
-    ],
-};
+    const data = {
+        title: "FAQ",
+        rows: [
+            {
+                title: "What makes us different?",
+                content:
+                    "Ascii Fishy Fam stands out in the NFT world with our dedication to high-quality, colorful ASCII art. We’re pushing creative boundaries and keeping you excited with new, unique releases. Our vision is to build a project that feels fresh and engaging, setting us apart from other NFT collections.",
+            },
+            {
+                title: "Is Ascii Fishy Fam fun like memes?",
+                content: `Definitely! Ascii Fishy Fam was designed to bring a smile to your face, combining internet humor and vibrant ASCII art. Our community is all about fun, and you’ll find plenty of meme-worthy content to enjoy and share. This project is here to be as entertaining as it is valuable.`,
+            },
+            {
+                title: "Does Ascii Fishy Fam have a utility?",
+                content: `Yes! Ascii Fishy Fam is being developed with multiple future utilities in mind. Working in an AGILE environment, we’re rolling out exciting features over time. For a hint: we’ll be using "Three.JS" to bring the project to life in new, interactive ways. Keep an eye on our Twitter or website for updates—trust us, you’ll want to be the first to know!`,
+            },
+            {
+                title: "Are the developers 'DOXED'?",
+                content: `Yes, our team is fully doxxed. Transparency is our priority, and we’re here to build something genuinely special and long-lasting. You can trust that we’re committed to taking this project to the next level with integrity.`,
+            },
+            {
+                title: "Does the team have professional experience?",
+                content: `Yes, the developers behind Ascii Fishy Fam have experience in both large and small teams across professional industries. We’re bringing this expertise to ensure a smooth and professional project launch.`,
+            },
+            {
+                title: "Is there a roadmap?",
+                content: `Absolutely, a detailed roadmap is in the works and will be released soon. This will outline our exciting plans and the project’s future direction, keeping the community informed and engaged every step of the way.`,
+            },
+            {
+                title: "Will there be a team member section on the website?",
+                content: `Yes! We’re planning to add a dedicated team section to the website once the components are ready. Stay tuned for more insights into the people bringing Ascii Fishy Fam to life.`,
+            },
+            {
+                title: "Is Ascii Fishy Fam Web3 compatible?",
+                content: `Yes! We’re integrating ethers.js, a JavaScript library that allows us to interact with blockchain technology. This will provide secure and seamless access to the full ecosystem of Web3, making Ascii Fishy Fam a truly modern NFT experience.`,
+            },
+            {
+                title: "Are there any rewards for early supporters?",
+                content: `Yes, we’re planning an airdrop of over 100 Ascii Fishy Fam NFTs to reward our early community members. This is our way of showing appreciation for your support and giving you an opportunity to expand your collection right from the start!`,
+            },
+        ],
+    };
+    
 
 const styles = {
      bgColor: `#f1f4c6`,
