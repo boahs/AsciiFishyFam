@@ -9,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #0e2438;
+  background-color: #74e4cc;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -33,7 +33,7 @@ h1, h2, h3, h5 {
 
 p {
   font-size: 18px;
-  color: #160a5a;
+  color: #000000;
 }
 
 .cards {
