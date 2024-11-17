@@ -21,47 +21,29 @@ function App() {
         
         <div className="box">
           <h5>FISHY NEWS</h5>
-          <h1>Latest Post - November, 2024</h1>
-          <h3>AIRDROPS SENT OUT! SEE SOCIAL MEDIA SECTION BELOW!</h3>
-          <h6>INTERACTIVE USE CASES COMING SOON WITH OPENSEA API INTEGRATION!</h6>
-          <h6>NEW ROADMAP THIS MONTH!</h6>
-          <h6>WEBSITE ENHANCEMENTS IN PROGRESS!</h6>
-          <h6>WALLET API INTEGRATION COMING SOON!</h6>
-          <h6>DIRECT ASCII ART CODE DELIVERY POST-PURCHASE!</h6>
-          <h6>COMMUNITY POLLING OPTION!</h6>
+          <h1>November 2024</h1>
+          <h3>50 AIRDROPS COMPLETED!</h3>
+          <h6>30 MORE FISHIES INCOMING</h6>
+          <h6>MEMES OVER PROMISES. SWIM ON.</h6>
         </div>
         
         <div className="cards">
           <p>Ascii Fishy Fam is a collection of unique NFTs transformed into ASCII art. ASCII art is a digital art form as old as the internet, pieced together from a set of 128 characters defined by the ASCII standard in 1963. Our ASCII Fishy Fam are fully crafted using text—zoom in to see the details!</p>
           
-          <h1>Social Media</h1>
+          <h1>Connect with the Fam</h1>
           <div className="services">
             <div className="content content-1">
               <div className="fab fa-opensea"></div>
               <h2>OpenSea</h2>
-              <p>Explore and purchase from our growing collection of Ascii Fishy Fam NFTs.</p>
+              <p>Buy your fishy memes here.</p>
               <a href="https://opensea.io/collection/the-ascii-fishies-fam" aria-label="Buy on OpenSea">BUY</a>
             </div>
             
             <div className="content content-2">
               <div className="fab fa-twitter"></div>
-              <h2>Twitter</h2>
-              <p>Follow us for the latest news and giveaways!</p>
-              <a href="https://twitter.com/AsciiFishyFam" aria-label="Follow on Twitter">FOLLOW</a>
-            </div>
-            
-            <div className="content content-3">
-              <div className="fab fa-tiktok"></div>
-              <h2>TikTok</h2>
-              <p>Check out early releases on TikTok!</p>
-              <a href="https://www.tiktok.com/@asciifishyfam" aria-label="See more on TikTok">READ MORE</a>
-            </div>
-            
-            <div className="content content-4">
-              <div className="fab fa-telegram"></div>
-              <h2>Telegram</h2>
-              <p>Join our Telegram to engage directly with the community!</p>
-              <a href="https://t.me/AsciiFishyFamNFT" aria-label="Join on Telegram">JOIN</a>
+              <h2>X (formerly Twitter)</h2>
+              <p>Follow us for laughs, updates, and airdrops!</p>
+              <a href="https://twitter.com/AsciiFishyFam" aria-label="Follow on X">FOLLOW</a>
             </div>
           </div>
 
