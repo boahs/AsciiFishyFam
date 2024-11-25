@@ -23,7 +23,7 @@ function App() {
           <h5>FISHY NEWS</h5>
           <h1>November 2024</h1>
           <h3>50 AIRDROPS COMPLETED!</h3>
-          <h6>30 MORE FISHIES INCOMING</h6>
+          <h6>30 MORE FISHIES MINTED AT FLOOR PRICE</h6>
           <h6>MEMES OVER PROMISES. SWIM ON.</h6>
         </div>
         
@@ -36,7 +36,7 @@ function App() {
               <div className="fab fa-opensea"></div>
               <h2>OpenSea</h2>
               <p>Buy your fishy memes here.</p>
-              <a href="https://opensea.io/collection/the-ascii-fishies-fam" aria-label="Buy on OpenSea">BUY</a>
+              <a href="https://opensea.io/collection/asciifishyfam" aria-label="Buy on OpenSea">BUY</a>
             </div>
             
             <div className="content content-2">
