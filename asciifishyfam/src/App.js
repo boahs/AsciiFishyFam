@@ -22,6 +22,7 @@ function App() {
         <div className="box">
           <h5>FISHY NEWS</h5>
           <h1>November 2024</h1>
+          <h3>HAPPY THANKSGIVING!🦃🦃</h3>
           <h3>50 AIRDROPS COMPLETED!</h3>
           <h6>30 MORE FISHIES MINTED AT FLOOR PRICE</h6>
           <h6>MEMES OVER PROMISES. SWIM ON.</h6>
